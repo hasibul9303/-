@@ -1,3 +1,7 @@
+____________________________________________________________________
+
+
+
 ## ***BASIC INTRODUCTION OF REPO OWNER***
 
 1. *Name* : Tayan Sinha
@@ -21,7 +25,9 @@
   
 :full_moon_with_face:  [chand pe mu wala emoji]
 
+ <img align="left" width="300" height="300" src=" https://images.app.goo.gl/ajpkxDUFx1ioBAtbA ">
 
-  
+
+ ___________________________________________________________________
 
 
