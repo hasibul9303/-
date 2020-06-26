@@ -1,5 +1,5 @@
 ____________________________________________________________________
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 ## ***BASIC INTRODUCTION OF REPO OWNER***
@@ -28,7 +28,7 @@ ____________________________________________________________________
  
  
 ![img](img/download.png)
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 
 
  ___________________________________________________________________
