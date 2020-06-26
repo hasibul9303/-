@@ -1,16 +1,11 @@
-# -
-🎈🎈🎈
-  # *Emojis* (:basketball:)
+# ***BASIC INTRODUCTION OF REPO OWNER***
 
-  :heart_eyes:  [aankh me dil wala emoji]
+1. *Name* : Tayan Sinha
+2. *e-mail* : tayansinha@gmail.com
+
+### :smirk: That's enough to know :joy: 
+
+
+ 
   
-  :kissing:   [chummi lelo wala emoji]
-  
-  :frog:  [mendhak ka sar wala emoji]
-  
-  :dog:  [kutte ka mu wala emoji]
-  
-  :full_moon_with_face:  [chand pe mu wala emoji]
-  
-  
-  # 
+
