@@ -5,11 +5,11 @@
 3. *GitHub* : [tayansinha](github.com/tayansinha)
 4. *Instagram* : [tayansinha](instagram.com/tayansinha)
 
-### :smirk: That's enough to know :joy: 
+:smirk: *That's enough to know* :joy: 
 
 
 
-  ***TYPES OF EMOJIES*** (:basketball:)
+  ## ***TYPES OF EMOJIES*** (:basketball:)
 
 :heart_eyes:  [aankh me dil wala emoji]
   
