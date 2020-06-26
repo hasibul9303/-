@@ -9,7 +9,7 @@
 
 
 
- ## ***TYPES OF EMOJIES*** (:basketball:)
+  ***TYPES OF EMOJIES*** (:basketball:)
 
 :heart_eyes:  [aankh me dil wala emoji]
   
